@@ -8,19 +8,19 @@ O Ubuntu 20.04 LTS "Focal Fossa", com suporte até abril de 2025, foi lançado e
 
 ### 1 - Atualizar o sistema:
 
-```
+```bash
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt dist-upgrade -y
 ```
 ### 2 - Instalar Codecs de mídia proprietários:
 
-```
+```bash
 sudo apt install ubuntu-restricted-extras
 ```
 
 ### 3 - Limpando o sistema:
 
-```
+```bash
 sudo apt autoremove
 ```
