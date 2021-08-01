@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+System Analyst
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Fullstack developer, skilled with technologies such as ASP.NET, MySQL, SQL SERVER, PostgreSQL, Linux, PHP, HTML5, CSS3, Bootstrap and JS. Lived about one year in Ireland to improve my english in 2009. Between 2010 and 2014 I was a member of a team of 12 people who developed geospatial information systems (GIS) solutions and worked as a developer of UX/UI focused interfaces with HTML5, CSS3 and Silverlight in projects such Geopolis (http://www.geopolis.ba.gov.br/) at INFORMS in Companhia de Desenvolvimento Urbano do Estado da Bahia - CONDER.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pedrohcmiguez@gmail.com](mailto:pedrohcmiguez@gmail.com)
