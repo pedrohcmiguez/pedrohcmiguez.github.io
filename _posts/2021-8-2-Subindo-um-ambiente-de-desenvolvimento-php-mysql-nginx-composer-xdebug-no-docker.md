@@ -7,8 +7,8 @@ Nos dias de hoje, os desenvolvedores precisam de eficiência para iniciar seus p
 
 ## Pre-requisitos:
 - Git
-- ![Docker](https://pedrohcmiguez.github.io/Instalando-docker-no-ubuntu-20-04/)
-- ![Docker-compose](https://pedrohcmiguez.github.io/Instalando-o-docker-compose-no-ubuntu-20-04/)
+- [Docker](https://pedrohcmiguez.github.io/Instalando-docker-no-ubuntu-20-04/)
+- [Docker-compose](https://pedrohcmiguez.github.io/Instalando-o-docker-compose-no-ubuntu-20-04/)
 
 ### 1 - Em um local desejado na sua máquina, clone o repositório:
 ```sh
