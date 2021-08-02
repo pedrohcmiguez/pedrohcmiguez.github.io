@@ -36,10 +36,12 @@
           
         </header>
         <center>
-          <form action="">
-            <input type="text" placeholder="Pesquisar..." name="pesquisar">
-            <button type="submit">Ir</button>
-          </form>
+          <!-- HTML elements for search -->
+          <input type="text" id="search-input" placeholder="Search blog posts..">
+          <ul id="results-container"></ul>
+
+          <!-- or without installing anything -->
+          <script src="{{ site.baseurl }}/js/search.js"></script>
         </center>
       </div>
     </div>
