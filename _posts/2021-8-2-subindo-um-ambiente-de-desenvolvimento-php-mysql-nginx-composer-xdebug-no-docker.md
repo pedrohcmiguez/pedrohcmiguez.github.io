@@ -6,7 +6,7 @@ title: Subindo um ambiente de desenvolvimento com PHP (Com composer e Xdebug), M
 Nos dias de hoje, os desenvolvedores precisam de eficiência para iniciar seus projetos e perder tempo com a criação de ambientes de desenvolvimentos é uma tarefa que vem se tornando mais simples com a utilização de ambientes prontos criados através de containers Docker. Aqui, ensinarei como levantar um ambiente para desenvolvimento em menos de 5 minutos:
 
 ## Pre-requisitos:
-- Git
+- [Git](https://pedrohcmiguez.github.io/instalando-o-git-no-ubuntu-20-04/)
 - [Docker](https://pedrohcmiguez.github.io/Instalando-docker-no-ubuntu-20-04/)
 - [Docker-compose](https://pedrohcmiguez.github.io/Instalando-o-docker-compose-no-ubuntu-20-04/)
 
