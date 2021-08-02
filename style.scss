@@ -284,6 +284,10 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-.search-container {
-  width: 150px;
-}
+form.search input[type=text] {
+  padding:10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  width: 95%;
+  background: #f1f1f1;
+  }
