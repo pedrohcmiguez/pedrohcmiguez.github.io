@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin: pedro-miguez-16587931
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: teste
   twitter: 
   stackoverflow: 
   youtube: 
@@ -40,7 +40,7 @@ google_analytics: G-SS7NPWGYRQ
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://pedrohcmiguez.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -83,3 +83,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+plugins:
+  - jekyll-feed
+title: PHCM Blog
+description: Bem vindos ao meu blog
+author: PHCM
