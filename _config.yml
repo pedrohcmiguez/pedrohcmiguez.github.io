@@ -83,9 +83,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-plugins:
-  - jekyll-feed
-title: PHCM Blog
-description: Bem vindos ao meu blog
-author: PHCM
