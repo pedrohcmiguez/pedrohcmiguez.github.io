@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DBeaver (MySQL) - Erro: Native client is not specified for connection no ubuntu 20.04
+title: DBeaver (MySQL) - Erro - Native client is not specified for connection no ubuntu 20.04
 ---
 
 >error executing process utility 'mysql' not found in client home '/usr/bin' (/usr/bin) utility 'mysql' not found in client home '/usr/bin' (/usr/bin)
